@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Name** | Jorge Enrique Vargas Pech |
+| **Name** | Saul Ruiz Peña |
 | **University** | Universidad Politécnica de Yucatán |
 | **Semester** | 4th Quadrimester |
 | **Major** | University Technician in Data Science |
